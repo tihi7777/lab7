@@ -4,4 +4,4 @@ Link Demo: [Bấm vào đây để xem Video Live code trên Google Drive](https
 
 Ảnh:
 
-<img src="image/login.png" width="300">
+<img src="https://raw.githubusercontent.com/tihi7777/lab7/master/image/login.png" width="300">
